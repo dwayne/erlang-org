@@ -11,6 +11,7 @@
           packages = [
             pkgs.nodejs_22
             pkgs.ruby_3_3
+            pkgs.yamllint
           ];
 
           shellHook = ''
